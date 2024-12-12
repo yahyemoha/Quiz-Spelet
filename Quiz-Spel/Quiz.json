@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Vad är världens högsta berg?",
+    "options": ["A. K2", "B. Mount Everest", "C. Kilimanjaro", "D. Denali"],
+    "answer": "B. Mount Everest"
+  },
+  {
+    "question": "Hur många ben har en spindel?",
+    "options": ["A. 6", "B. 8", "C. 10", "D. 12"],
+    "answer": "B. 8"
+  },
+  {
+    "question": "Vilken fågel är känd för att inte kunna flyga?",
+    "options": ["A. Struts", "B. Albatross", "C. Kungsörn", "D. Tukan"],
+    "answer": "A. Struts"
+  },
+  {
+    "question": "Vilket är världens största hav?",
+    "options": ["A. Atlanten", "B. Stilla havet", "C. Indiska oceanen", "D. Antarktiska oceanen"],
+    "answer": "B. Stilla havet"
+  },
+  {
+    "question": "Vilket år bröt andra världskriget ut?",
+    "options": ["A. 1939", "B. 1941", "C. 1936", "D. 1945"],
+    "answer": "A. 1939"
+  },
+  {
+    "question": "Vilket är det största organet i människokroppen?",
+    "options": ["A. Hjärnan", "B. Huden", "C. Levern", "D. Lungan"],
+    "answer": "B. Huden"
+  },
+  {
+    "question": "Vad är det största djuret som någonsin levt?",
+    "options": ["A. Lejon", "B. Blåval", "C. Elefant", "D. Megalodon"],
+    "answer": "B. Blåval"
+  },
+  {
+    "question": "Vilken är huvudstaden i Vatikanstaten?",
+    "options": ["A. Rom", "B. Vatikanstaden", "C. Florens", "D. Milan"],
+    "answer": "B. Vatikanstaden"
+  },
+  {
+    "question": "Vad är huvudstaden i Australien?",
+    "options": ["A. Sydney", "B. Canberra", "C. Melbourne", "D. Brisbane"],
+    "answer": "B. Canberra"
+  },
+  {
+    "question": "Vilken färg har en smaragd?",
+    "options": ["A. Blå", "B. Grön", "C. Röd", "D. Gul"],
+    "answer": "B. Grön"
+  }
+]
